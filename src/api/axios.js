@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://automatic-telegram-97rxvjv5wq6727wjv-8000.app.github.dev/api",
+  baseURL: import.meta.env.VITE_API_URL || "https://laravel-backend-production-b392.up.railway.app/api",
 });
 
 api.interceptors.request.use((config) => {
