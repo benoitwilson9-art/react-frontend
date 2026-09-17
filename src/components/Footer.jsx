@@ -38,12 +38,12 @@ export default function Footer() {
             <h4 style={{ fontSize: 13, marginBottom: 14, fontWeight: 600 }}>Contact</h4>
             <p style={{ fontSize: 14, marginBottom: 10 }}>Lomé, Togo</p>
             <p style={{ fontSize: 14, marginBottom: 10 }}>contact@braviaecohotel.tg</p>
-            <p style={{ fontSize: 14 }}>+228 00 00 00 00</p>
+            <p style={{ fontSize: 14 }}>+228 90 39 65 35</p>
           </div>
         </div>
 
         <p style={{ textAlign: "center", fontSize: 12.5, color: "var(--taupe)", marginTop: 24 }}>
-          © 2026 Bravia Eco Hotel Lomé — projet D-CLIC, septembre 2026
+          © 2026 Bravia Eco Hotel Lomé — projet D-CLIC dev by WILSON, septembre 2026
         </p>
       </div>
     </footer>
